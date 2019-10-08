@@ -164,5 +164,6 @@
   "localeAndCurrencyPicker.switchingInfo.header": "Switching currency now will:",
   "localeAndCurrencyPicker.switchingInfo.point1": "Change the currency of all items in your basket",
   "localeAndCurrencyPicker.switchingInfo.point2": "Remove any travel insurance cover added to your basket",
-  "b1_new_translate": "Only in B1 new translate."
+  "b1_new_translate": "Only in B1 new translate.",
+    "b2_new_translate": "Definitely only in B2 new translate."
 }
