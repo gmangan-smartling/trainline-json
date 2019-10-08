@@ -167,5 +167,6 @@
   "b1_new_translate" : "Nur in B1 neu übersetzen.",
   "b2_new_translate" : "Auf jeden Fall nur in B2 neu übersetzen.",
   "3KeyNewBranch" : "Zu übersetzender Text in Zweig 3. ",
-  "4KeyNew" : "Vierter Zweig."
+  "4KeyNew" : "Vierter Zweig.",
+  "add_key_branch" : "Ich bin ein neuer Schlüssel."
 }
