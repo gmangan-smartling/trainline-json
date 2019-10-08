@@ -168,6 +168,8 @@
     "b2_new_translate": "Definitely only in B2 new translate.",
   "3KeyNewBranch": "Text for translation in branch 3. ",
   "4KeyNew": "Fourth branch.",
+  "add_key_branch": "Changed this key.",
   "add_key_branch": "I am a new key.",
   "test2_key": "Test 2 key."
+
 }
