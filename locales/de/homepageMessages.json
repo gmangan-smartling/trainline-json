@@ -168,9 +168,9 @@
   "b2_new_translate" : "Auf jeden Fall nur in B2 neu übersetzen.",
   "3KeyNewBranch" : "Zu übersetzender Text in Zweig 3. ",
   "4KeyNew" : "Vierter Zweig.",
-  "add_key_branch" : "Änderte diesen Schlüssel.",
+  "add_key_branch" : "Änderte diesen Schlüssel 1 Change.",
   "add_key_branch" : "Ich bin ein neuer Schlüssel.",
-  "test2_key" : "Test 2 Schlüssel aktualisiert."
-  "check1_key" : "Nur 1 Zweig prüfen."
-
+  "test2_key" : "Test 2 Schlüssel.",
+  "check1_key" : "Nur 1 Zweig prüfen.",
+  "br1_key" : "Hinzufügen von br1_key. Adding br1_key."
 }
