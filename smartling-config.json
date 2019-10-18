@@ -18,17 +18,17 @@
     {
       "name": "French",
       "smartling": "fr-FR",
-      "application": "fr"
+      "application": "fr-FR"
     },
     {
       "name": "German",
       "smartling": "de-DE",
-      "application": "de"
+      "application": "de-DE"
     },
     {
       "name": "Italian",
       "smartling": "it-IT",
-      "application": "it"
+      "application": "it-IT"
     },
     {
       "name": "Japanese",
