@@ -171,7 +171,8 @@
   "add_key_branch": "Changed this key.",
   "add_key_branch": "I am a new key.",
   "test2_key": "Test 2 key.",
-  "check1_key": "Check 1 branch only."
+  "check1_key": "Check 1 branch only.",
+  "br1_key": "Adding br1_key."
 
 
 }
